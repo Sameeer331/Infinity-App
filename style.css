@@ -211,19 +211,19 @@ main {
 
 .feature-1 {
     background-color: rgba(255, 0, 0, 0.3);
-    background-image: url('/images/Quality Teachers.png.png');
+    background-image: url('/Quality Teachers.png.png');
     cursor: pointer;
 }
 
 .feature-2 {
     background-color: rgba(255, 255, 0, 0.3);
-    background-image: url('/images/Curriculum.png.png');
+    background-image: url('/Curriculum.png.png');
     cursor: pointer;
 }
 
 .feature-3 {
     background-color: rgba(0, 128, 0, 0.3);
-    background-image: url('/images/Global Recognition.png.png');
+    background-image: url('/Global Recognition.png.png');
     cursor: pointer;
 }
 
